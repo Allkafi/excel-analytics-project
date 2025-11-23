@@ -1,2 +1,5 @@
-# excel-analytics-project
-This project shows how I used Excel to clean data, analyze patterns, and create simple visualizations. A good starting point for improving my data analysis skills.
+#Vrinda-Store-Data-Analysis (Interactive Dashboard creation using MS Excel)
+
+##Project Objective
+
+The Vrinda Store wants to create an annual sales report for 2022 so that the owner can understand customer behavior, identify growth opportunities, and improve overall sales in 2023 & 2024.
