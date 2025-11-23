@@ -26,5 +26,19 @@ Highest selling category?
 
 Percentage of total orders delivered
 
-Dashboard interaction <a href="">View Dashboard</a>
+Dashboard interaction <a href="https://github.com/Allkafi/excel-analytics-project/blob/main/Capture.PNG">View Dashboard</a>
 
+## Process
+
+Verified data for any missing values and anomalies
+
+Cleaned and standardized the dataset
+
+Created pivot tables based on the questions/KPIs
+
+Merged all pivot tables into one interactive dashboard
+
+Applied slicers to make the dashboard dynamic
+
+## Dashboard
+<a href="https://github.com/Allkafi/excel-analytics-project/blob/main/Capture.PNG">View Dashboard</a>
